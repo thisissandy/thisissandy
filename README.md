@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 <img src=”https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX" alt=”horizon hero banner”/>
 
+![GitHub watchers](https://img.shields.io/github/watchers/thisissandy/thisissandy?style=social)
