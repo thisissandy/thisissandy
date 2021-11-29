@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![alt text](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX “add your alt text”)
+(https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX “add your alt text”)
 
