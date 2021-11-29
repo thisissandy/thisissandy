@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-(https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX “add your alt text”)
+<img src=”assets/profile_banner.png" alt=”horizon hero banner”/>
 
