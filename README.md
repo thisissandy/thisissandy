@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX "")
+![](https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX?v=4&h=300&w=300 "")
 
 
 ### Code
