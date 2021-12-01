@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-![GitHub watchers](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\)
+![alt text for screen readers](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\ "Text to show on mouseover").
