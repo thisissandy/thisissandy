@@ -12,7 +12,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy&layout=compact)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissandy&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissandy&show_icons=true&theme=gotham)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/thisissandy?username=willianrod)](https://github.com/thisissandy/github-readme-stats)
+
