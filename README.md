@@ -17,5 +17,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissandy&show_icons=true&theme=gotham)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/thisissandy?username=willianrod)](https://github.com/thisissandy/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/thisissandy?username=willianrod&repo=vehinfo)](https://github.com/thisissandy/github-readme-stats)
 
