@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src=”https://miro.medium.com/max/700/0*JKyzq_e9TUlb84wX" alt=”horizon hero banner”/>
 
-![GitHub watchers](https://img.shields.io/github/watchers/thisissandy/thisissandy?style=social)
+
+![GitHub watchers](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\)
