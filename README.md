@@ -52,4 +52,4 @@
 
 
 ### Get to Know, more About me
-[google.com](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)
+[https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn](https://www.linkedin.com/in/thisissandy/)
