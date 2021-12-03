@@ -2,12 +2,9 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisissandy&theme=dracula)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thisissandy)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
 
 ## Programming in
 
