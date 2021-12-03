@@ -52,5 +52,5 @@
 
 
 ### Get to Know, more About me
-<a href=”https://www.linkedin.com/in/thisissandy/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>                         
+<a href=”https://www.linkedin.com/in/thisissandy/">![""](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>                         
                                                     
