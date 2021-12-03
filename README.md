@@ -2,6 +2,13 @@
 
 ***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisissandy&theme=dracula)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thisissandy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Programming in
 
 ![""](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\ "")
@@ -45,15 +52,6 @@
   ![""](https://img.shields.io/static/v1?label=AWS&message=Scripting&color=000?style=for-the-badge&logo=aws&logoColor=white&style=for-the-badge\ "")
 
 ***
-
-### Top languages which, i used mostly
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandy&layout=compact)](https://github.com/thisissandy/github-readme-stats&show_icons=true)
-
-
-### My Overall Statistics (*Not that good i know, but i try to improve it*)
-
-![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisissandy&show_icons=true&theme=gotham)
 
 
 ### Get to Know, more About me
