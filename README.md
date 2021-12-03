@@ -8,8 +8,8 @@
 
 ## Programming in
 
-![](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\)
-![](https://img.shields.io/static/v1?label=JavaScript&message=programming&color=000?style=for-the-badge&logo=javascript&logoColor=white&style=for-the-badge\)
+![""](https://img.shields.io/static/v1?label=python&message=programming&color=000?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge\)
+![""](https://img.shields.io/static/v1?label=JavaScript&message=programming&color=000?style=for-the-badge&logo=javascript&logoColor=white&style=for-the-badge\)
 
 ***
 
