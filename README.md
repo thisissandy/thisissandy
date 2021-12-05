@@ -22,8 +22,8 @@
 
 - ### *Machine Learning Packages & Libraries*
   ![""](https://img.shields.io/static/v1?label=OpenCV&message=Computer-Vision&color=000?style=for-the-badge&logo=opencv&logoColor=white&style=for-the-badge\ "")
-  ![""](https://img.shields.io/static/v1?label=Numpy&message=Arrayr=000?style=for-the-badge&logo=numpy&logoColor=white&style=for-the-badge\ "")
-  ![""](https://img.shields.io/static/v1?label=Pandas&message=DataFame0?style=for-the-badge&logo=pandas&logoColor=white&style=for-the-badge\ "")
+  ![""](https://img.shields.io/static/v1?label=Numpy&message=Array&color=000?style=for-the-badge&logo=numpy&logoColor=white&style=for-the-badge\ "")
+  ![""](https://img.shields.io/static/v1?label=Pandas&message=DataFame&color=000?style=for-the-badge&logo=pandas&logoColor=white&style=for-the-badge\ "")
   ![""](https://img.shields.io/static/v1?label=SK-learn&message=Evaluation&color=000?style=for-the-badge&logo=sklearn&logoColor=white&style=for-the-badge\ "")
   ![""](https://img.shields.io/static/v1?label=MatPlotLib&message=Visualize&color=000?style=for-the-badge&logo=numpy&logoColor=white&style=for-the-badge\ "")
 
